@@ -1,0 +1,4 @@
+{
+    "outFolder": "./tmp/apidocs/",
+    "ignoreRoutes": []
+}

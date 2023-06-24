@@ -1,0 +1,13 @@
+{
+    "ignore": [
+        "test/*",
+        "*.json",
+        "**/__mocks__/**",
+        "shell/*",
+        "setup/*",
+        "tmp/*",
+        "build/*",
+        "config/pm2.config.js",
+        "config/jest.config.js"
+    ]
+}
